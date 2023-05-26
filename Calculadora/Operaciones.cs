@@ -2,12 +2,12 @@ public class Operaciones
 {
     public int Suma(int a, int b)
     {
-        returm a+b;
+        return a+b;
     }
 
     public int Resta(int a, int b)
     {
-        returm a-b;
+        return a-b;
     }
 
     public int Multiplicacion(int a, int b)
