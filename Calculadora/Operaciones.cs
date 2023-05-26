@@ -2,12 +2,12 @@ public class Operaciones
 {
     public int Suma(int a, int b)
     {
-        Suma=a+b;
+        retum=a+b;
     }
 
     public int Resta(int a, int b)
     {
-        Resta=a-b;
+        retum=a-b;
     }
 
     public int Multiplicacion(int a, int b)
